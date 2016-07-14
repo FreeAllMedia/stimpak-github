@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/FreeAllMedia/stimpak-github#readme",
   "devDependencies": {},
-	"dependencies": {
-		"stimpak-git": "0.0.2"
-	}
+  "dependencies": {
+    "stimpak-git": "0.0.3"
+  }
 }
