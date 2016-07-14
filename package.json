@@ -1,6 +1,6 @@
 {
   "name": "stimpak-github",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Prompts for information related to a github project. Generates no files of its own.",
   "main": "lib/generator.js",
   "keywords": [
