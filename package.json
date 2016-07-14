@@ -1,0 +1,23 @@
+{
+  "name": "stimpak-github",
+  "version": "0.0.0",
+  "description": "Asks questions related to a github project.",
+  "main": "generator.js",
+  "keywords": [
+    "stimpak"
+  ],
+  "license": "MIT",
+  "author": "dcrockwell",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeAllMedia/stimpak-github"
+  },
+  "bugs": {
+    "url": "https://github.com/FreeAllMedia/stimpak-github/issues"
+  },
+  "homepage": "https://github.com/FreeAllMedia/stimpak-github#readme",
+  "devDependencies": {},
+	"dependencies": {
+		"stimpak-git": "0.0.2"
+	}
+}
